@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="R Language Support" shouldLog="false" />
+  </component>
+</application>
