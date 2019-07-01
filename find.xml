@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\datamanager.py [NN]'" />
-    <option name="defaultScopeName" value="File '...\datamanager.py [NN]'" />
-    <option name="SEARCH_SCOPE" value="File '...\datamanager.py [NN]'" />
+    <option name="customScope" value="Module 'NNAQ'" />
+    <option name="defaultScopeName" value="Module 'NNAQ'" />
+    <option name="SEARCH_SCOPE" value="Module 'NNAQ'" />
   </component>
 </application>
