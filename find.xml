@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'NNAQ'" />
-    <option name="defaultScopeName" value="Module 'NNAQ'" />
-    <option name="SEARCH_SCOPE" value="Module 'NNAQ'" />
+    <option name="customScope" value="File '...\dataset.py [analazer]'" />
+    <option name="defaultScopeName" value="File '...\dataset.py [analazer]'" />
+    <option name="SEARCH_SCOPE" value="File '...\dataset.py [analazer]'" />
   </component>
 </application>
