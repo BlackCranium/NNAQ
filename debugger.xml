@@ -5,7 +5,6 @@
     <debuggers>
       <debugger id="python">
         <configuration>
-          <option name="valuesPolicy" value="SYNC" />
           <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>

@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1148" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>
