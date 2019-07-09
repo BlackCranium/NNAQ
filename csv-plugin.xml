@@ -1,0 +1,6 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="USE_SOFT_WRAP" value="true" />
+    <option name="EDITOR_PRIO" value="TABLE_FIRST" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="train-labels-idx1-ubyte" type="PLAIN_TEXT" />
+      <mapping pattern="t10k-images-idx3-ubyte" type="PLAIN_TEXT" />
+      <mapping pattern="t10k-labels-idx1-ubyte" type="PLAIN_TEXT" />
+      <mapping pattern="train-images-idx3-ubyte" type="PLAIN_TEXT" />
+      <mapping ext="pt" type="PLAIN_TEXT" />
+      <mapping pattern="FRX_nn" type="Python" />
+    </extensionMap>
+  </component>
+</application>
