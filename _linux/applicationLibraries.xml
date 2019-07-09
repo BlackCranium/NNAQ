@@ -1,7 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="R Skeletons">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/custom/system/r_skeletons/725233088" />
+      </CLASSES>
       <SOURCES />
     </library>
   </component>
